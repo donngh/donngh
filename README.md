@@ -6,7 +6,7 @@ I like football, chess, reading.
 
 I am interested in everything related to the interaction between people.
 It's important to keep a good relationship with everyone.
-That's why I spend time on
+That's why I spend time on.
 
 Here is a little funny storytelling: 
 When I was new to programming, the funny thing I did was to confuse C and C #, and even C ++.  
